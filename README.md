@@ -1,4 +1,4 @@
-![Logo](makeflashcards.png)
+![Logo](doc/makeflashcards.png)
 
 Python-Makeflashcards
 =====================
