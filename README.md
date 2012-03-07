@@ -1,3 +1,5 @@
+![Logo](makeflashcards.png)
+
 Python-Makeflashcards
 =====================
 
