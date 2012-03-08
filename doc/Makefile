@@ -1,3 +1,3 @@
 all:
-	convert makeflashcards.svg makeflashcards.png
+	convert makeflashcards.svg makeflashcards.jpg
 
