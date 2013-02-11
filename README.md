@@ -1,7 +1,10 @@
-![Logo](https://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/makeflashcards.jpg "Logo")
 
 Python-Makeflashcards
 =====================
+
+This is a python plugin for Openoffice/Libreoffice to create nice flashcards for printing from wordlists or tables.
+
+It works with Openoffice/Libreoffice 1-3. It does not yet work with Libreoffice 4. I am working on a fix.
 
 Documentation is available here:
 
