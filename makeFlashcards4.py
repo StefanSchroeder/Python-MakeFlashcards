@@ -14,7 +14,7 @@
 import uno
 
 HEIGHT = 6
-WIDTH = 2
+WIDTH = 3
 
 
 class flashTable:
