@@ -22,7 +22,7 @@ https://wiki.documentfoundation.org/UserProfile
 
 E.g. on Windows XP:
 
-\Documents and Setting\<user name>\Application Data\libreoffice\4\user\Scripts\python
+\Documents and Setting\user name\Application Data\libreoffice\4\user\Scripts\python
 
 Quick Usage
 ===========
