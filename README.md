@@ -14,7 +14,7 @@ Installation
 ============
 
 Save the makeFlashcards4.py script into the scripts directory below 
-Libreoffice profile directory. 
+your Libreoffice profile directory. 
 
 If you don't know how to find your Libreoffice user profile, refer to
 
