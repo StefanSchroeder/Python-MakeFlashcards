@@ -29,11 +29,22 @@ Quick Usage
 
 Create or load a wordlist with three fields per line, TAB separated.
 
+![Logo](http://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/wordlist.png?raw=true)
+
 Execute the script: Tools -> Macros -> Run Macro.
+
+![Logo](http://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/runmacro.png?raw=true)
 
 Open the My Macros fold.
 
 Select the script and click Run.
+
+![Logo](http://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/runmacro2.png?raw=true)
+
+Result:
+
+![Logo](http://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/flashcards.png?raw=true)
+
 
 (Somewhat outdated) Documentation is available here:
 
