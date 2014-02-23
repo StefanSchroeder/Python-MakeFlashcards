@@ -24,6 +24,13 @@ E.g. on Windows XP:
 
 \Documents and Setting\user name\Application Data\libreoffice\4\user\Scripts\python
 
+Or on Windows 7:
+
+c:\Program Files\LibreOffice 4\share\Scripts\python
+
+Strangely it didn't work to put the script in the user specific script folder;
+it must be the system wide script folder.
+
 Quick Usage
 ===========
 
