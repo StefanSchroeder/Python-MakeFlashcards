@@ -4,10 +4,11 @@
 Python-Makeflashcards
 =====================
 
-This is a python plugin for Openoffice/Libreoffice to create nice flashcards for printing from wordlists.
+This is a python macro/plugin for Openoffice/Libreoffice to create nice flashcards for printing from wordlists.
 
 It works with Openoffice/Libreoffice 1-3 (makeFlashcards.py) and 
-with Libreoffice 4 (makeFlashcards4.py; tested with Libreoffice 4.0.3 in Windows) .
+with Libreoffice 4 (makeFlashcards4.py; tested with Libreoffice 4.0.3 in Windows and
+Libreoffice 5.1.2 in Windows).
 
 
 Installation
@@ -28,8 +29,9 @@ Or on Windows 7:
 
 c:\Program Files\LibreOffice 4\share\Scripts\python
 
-Strangely it didn't work to put the script in the user specific script folder;
-it must be the system wide script folder.
+The script continues to work in LibreOffice 5.
+
+C:\Program Files (x86)\LibreOffice 5\share\Scripts\python
 
 Quick Usage
 ===========
