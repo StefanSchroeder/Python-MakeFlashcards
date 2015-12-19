@@ -38,7 +38,8 @@ Quick Usage
 
 Create or load a wordlist with three fields per line, TAB separated.
 
-![Logo](http://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/wordlist.png?raw=true)
+![Logo](https://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/wordlist.png?raw=true)
+
 
 Execute the script: Tools -> Macros -> Run Macro.
 
