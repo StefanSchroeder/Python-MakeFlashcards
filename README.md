@@ -1,4 +1,4 @@
-![Logo](http://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/makeflashcards.png?raw=true)
+![Logo](https://github.com/StefanSchroeder/Python-MakeFlashcards/blob/master/doc/makeflashcards.png?raw=true)
 
 
 Python-Makeflashcards
